@@ -17,6 +17,12 @@
 This is the backend application for an e-commerce website built using the latest technologies. It provides a functional Express.js API that allows you to manage and interact with the database using Sequelize ORM.
 
   ## [Installation](#table-of-contents)
+
+Go to my repo and clone the repository:
+[https://skye143.github.io/eCommerce_Backend_Boost_13/](https://skye143.github.io/eCommerce_Backend_Boost_13/)
+
+    git clone: git@github.com:skye143/eCommerce_Backend_Boost_13.git
+
 To install the necessary dependencies, run the following command:
 
     npm install
